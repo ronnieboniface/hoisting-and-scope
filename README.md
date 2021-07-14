@@ -92,7 +92,8 @@ When JavaScript is executed, it always runs TWICE.
     - ALWAYS DECLARE YOUR VARIABLES AT THE TOP OF THEIR SCOPE.
 
   ## let/const vs. var
-    🔔🔔🔔 🥊 🔔🔔🔔
+  🔔🔔🔔 🥊 🔔🔔🔔
+    
     The way `let`/`const` variables and `var` variables behave during the execution phase is slightly different.
     - Variables declared with `var` will be initialized with a value of `undefined` at the start of the execution phase. (If we try to access the variable above it's definition, it will return undefined.)
 
