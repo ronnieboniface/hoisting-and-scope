@@ -107,3 +107,11 @@ When JavaScript is executed, it always runs TWICE.
 
 
 Resources:
+- [Understanding Closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4)
+- [More on Closures](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+- [Understand Scope & Scope Chain](https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53)
+- [Hoisting in Modern JS](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
+- [MDN Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+- [MDN Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [MDN Global Scope](https://developer.mozilla.org/en-US/docs/Glossary/Global_scope)
+- [MDN Local Scope](https://developer.mozilla.org/en-US/docs/Glossary/Local_scope)
