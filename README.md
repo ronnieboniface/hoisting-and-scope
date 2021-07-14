@@ -10,12 +10,12 @@ Scope refers to where we are able to access the functions and variables that we 
   - The scope of Rite Aid is the US.
   - The scope of Starbucks is global.
     
-  ### Scope in Ruby:
+ ### Scope in Ruby:
 - Local: available only within the scope that it is defined.
 - Instance: available only within a specific object and it’s instance methods
 - Class: available within the class itself, class methods and instance methods
   
-  ### Scope in JavaScript:
+ ### Scope in JavaScript:
 - Global:
     - Variables and functions in the global scope are available EVERYWHERE within your code.
 - Function Scope:
