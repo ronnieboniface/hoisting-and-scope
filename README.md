@@ -101,9 +101,8 @@ When JavaScript is executed, it always runs TWICE.
 
 # Bottom Line?
   ## DECLARE ALL OF YOUR VARIABLES AT THE TOP OF THEIR SCOPE.
+  ![](https://media.giphy.com/media/l396GDVdFycbmiZDG/giphy.gif)
   ## NEVER USE GLOBAL VARIABLES OR VAR.
-
-![](https://media.giphy.com/media/l396GDVdFycbmiZDG/giphy.gif)
 
 
 Resources:
