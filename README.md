@@ -31,13 +31,6 @@ Two Factors:
 ### Scope Chain:
 We have access to JavaScript variables and functions in the scope that they are defined AND in any child scope. This is called the scope chain.
 
-REAL WORLD EXAMPLE: 
-
-
-JAVASCRIPT EXAMPLE:
-```
-```
-
 - When JavaScript is executed, it will always start to look for a variable or function declaration in its current scope whenever that variable or function is called.
 
 - If it doesn't find that variable or function, it will keeping moving up to the next scope in the chain until it finds that variable or function.
