@@ -62,7 +62,7 @@ JAVASCRIPT EXAMPLE:
 - If we redeclare a variable defined with `var` inside of a child scope, it will override the initial value.
 - PLEASE don't use it. 
 
-    ![](images/var.png)
+    ![](var.png)
 
 # Hoisting 🙈🙉🙊
 
@@ -97,7 +97,7 @@ When JavaScript is executed, it always runs TWICE.
     The way `let`/`const` variables and `var` variables behave during the execution phase is slightly different.
     - Variables declared with `var` will be initialized with a value of `undefined` at the start of the execution phase. (If we try to access the variable above it's definition, it will return undefined.)
 
-    ![](images/hoist.png)
+    ![](hoist.png)
 
     - Variables declared with `let` and `const` are NOT initialized until JavaScript runs the line where they are declared. (If we try to access the variable above it's definition, it will return an error saying that the variable has not been initialized.)
 
